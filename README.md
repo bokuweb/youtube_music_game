@@ -1,25 +1,20 @@
-# youtube_music_game
+## enchant.jsとyoutubeAPIを使用した音ゲーサンプル
 
-### はじめに
+youtubeAPIとenchant.jsを使用しています
 
-http://bokuweb.hatenablog.com/entry/2015/01/01/080634
-
-上記の記事で書いた「typebeats」のゲーム部を簡素化して説明してみます。
-削っていくと100行に入りそうだったので詰め込んでみました。
-かなり簡素化していますが、基本的な考え方は共通です。
-
-### ゲーム概要
+## ゲーム概要
 
 リズムに合わせて降ってくるアイコンをタッチ/クリックするゲームです。
 
 こいつが
-
 ![icon.png](icon.png)
 
 こいつに
-
 ![shadow.png](shadow.png)
 
 重なるくらいが押し時です。
-
 スマホでの動作は確認していません。たぶん動かない気がします。
+
+## デモ
+
+http://bokuweb.github.io/youtube_music_game/
